@@ -1,8 +1,8 @@
-# 🧠 RadiantIQ
+# 🧠 ClutchAI
 
 > AI-powered FPS performance analyst that turns raw match statistics into personalized coaching using Machine Learning and Generative AI.
 
-RadiantIQ analyzes player performance, detects weaknesses, understands playstyle patterns, and generates improvement plans like a personal esports coach.
+ClutchAI analyzes player performance, detects weaknesses, understands playstyle patterns, and generates improvement plans like a personal esports coach.
 
 ---
 
@@ -30,7 +30,7 @@ but not:
 
 "Why are you stuck at your rank?"
 
-RadiantIQ bridges that gap.
+ClutchAI bridges that gap.
 
 ---
 
