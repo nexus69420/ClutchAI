@@ -1,0 +1,47 @@
+Project: ClutchAI
+
+You are assisting development of an AI FPS coaching platform.
+
+Core principles:
+
+- Production quality code
+- Modular architecture
+- Type safety
+- Scalable backend
+- ML pipelines separated from API logic
+
+
+Architecture:
+
+Frontend:
+Next.js + TypeScript
+
+Backend:
+FastAPI
+
+Database:
+PostgreSQL
+
+Cache:
+Redis
+
+AI:
+LangChain
+Qdrant
+LLMs
+
+ML:
+Python models exposed through services
+
+
+Always:
+
+- explain architectural choices
+- create clean folder structures
+- use async FastAPI patterns
+- follow industry practices
+- avoid quick hacks
+
+Goal:
+
+Build a deployable AI SaaS product.
